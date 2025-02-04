@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Svelte.
 - 💞️ I’m looking to collaborate on LibreKitten.
 - 📫 How to reach me: [On my Scratch profile](https://scratch.mit.edu/users/o97doge/#comments).
-<!--- 😄 Pronouns: Nah. --->
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Cats > Humans
 
 <!---
