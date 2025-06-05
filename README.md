@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @someCatInTheWorld
-- 👀 I’m interested in contributing to things.
-- 🌱 I’m currently learning Svelte.
-- 💞️ I’m looking to collaborate on LibreKitten.
-- 📫 How to reach me: [On my Scratch profile](https://scratch.mit.edu/users/o97doge/#comments).
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Cats > Humans
+## Accounts
+- [My Scratch profile](https://scratch.mit.edu/users/o97doge/)
+- [My Codeberg profile](https://codeberg.org/ACat/)
 
-<!---
-someCatInTheWorld/someCatInTheWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+- [LibreKitten, a fork of TurboWarp (which itself is a fork of Scratch) that can function as a web server](https://librekitten.org/)
+
+## Things I feel very comfortable with:
+![Scratch, JavaScript, HTML, and CSS](https://go-skill-icons.vercel.app/api/icons?i=scratch,js,html,css)
+<br>
+(Also LibreKitten, because I built it)
+
+## Things I feel comfortable with:
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
+<br>
+
+## Things I want to/am trying to become comfortable with:
+![React, Svelte, Python, and TypeScript](https://go-skill-icons.vercel.app/api/icons?i=react,svelte,py,ts)
